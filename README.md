@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 ## Spreadsheet/Excel
-### Deck : [Property Listing Business Analysis](https://docs.google.com/presentation/d/1m6ZQXiPkDz_-PQtxY6jbmdlkvTqp2VRWGeERznAJFJk/edit?usp=sharing)
+### Deck : [Property Listing Business Analysis](https://docs.google.com/presentation/d/10-mxIKbm8fGjy-XmphRgE72RLDK7-SY3TsE45C6_vxs/edit?usp=sharing)
 - Data Cleaning
 - Manipulation
 - Descriptive Statistics
