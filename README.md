@@ -10,11 +10,12 @@
 ### Deck : [Measuring Marketing Campaigns Effect](https://docs.google.com/presentation/d/1Vj725LiKhox9qPMxqEbH2si37WWsjLwPTKOYyXbZ8_U/edit?usp=sharing)
 - Hypothesis Testing
 ## SQL
-### Code : [Covid-19 in Indonesia 2021-2022](https://github.com/AchmadHendy/COVID-19-Indonesia-2021-2022/blob/main/Indonesia_COVID_Data_28062022.sql)
+### Code : [COVID-19 in Indonesia 2021-2022](https://github.com/AchmadHendy/COVID-19-Indonesia-2021-2022/blob/main/Indonesia_COVID_Data_28062022.sql)
 - Data Cleaning
-- JOIN
 - CTE (Common Table Expressions)
 - Window Functions
+### Code : [E-Commerce Traffic Source](https://console.cloud.google.com/bigquery?sq=112288188025:d7ad8958f753472b8aabfac400f79e51)
+- JOIN
 ## Python Skill sets:
 - Removing irrelevant values
 - Handling missing data
