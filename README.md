@@ -27,10 +27,7 @@
 - Exploratory Data Analysis
 - Data Visualization
 
-### 2. Investment Company Business Analysis & Client Segmentation [(Deck)](https://docs.google.com/presentation/d/1D7aapFvg6Grw-heTb4BLUpKcQFlzvm-Ot15cm-J0Qd0/edit?usp=sharing) & [(Code)](https://docs.google.com/presentation/d/1D7aapFvg6Grw-heTb4BLUpKcQFlzvm-Ot15cm-J0Qd0/edit?usp=sharing)
-- Data Preparation
-- Data Cleaning
-- Exploratory Data Analysis
+### 2. Investment Company Business Analysis & Client Segmentation [(Deck)](https://docs.google.com/presentation/d/1D7aapFvg6Grw-heTb4BLUpKcQFlzvm-Ot15cm-J0Qd0/edit?usp=sharing) & [(Code)](https://colab.research.google.com/drive/1CWvFqlfz_8xCCeDIwNyQGxg5wRu9YCYg?usp=sharing)
 - Cluster Analysis
 
 ## Dataviz using Tableau
