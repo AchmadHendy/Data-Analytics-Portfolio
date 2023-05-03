@@ -10,6 +10,7 @@
 ### Deck : [Measuring Marketing Campaigns Effect](https://docs.google.com/presentation/d/1Vj725LiKhox9qPMxqEbH2si37WWsjLwPTKOYyXbZ8_U/edit?usp=sharing)
 - Hypothesis Testing
 ## SQL
+### Code : [Covid-19 in Indonesia](https://github.com/AchmadHendy/COVID-Analysis-Indonesia)
 - Data Cleaning
 - JOIN
 - CTE (Common Table Expressions)
