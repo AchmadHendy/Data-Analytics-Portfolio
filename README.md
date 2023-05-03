@@ -7,7 +7,7 @@
 - Exploratory Data Analysis
 - Correlation
 - Regression
-### 2. [Measuring Marketing Campaigns Effect (Deck)](https://docs.google.com/presentation/d/1Vj725LiKhox9qPMxqEbH2si37WWsjLwPTKOYyXbZ8_U/edit?usp=sharing)
+### 2. [Comparing Marketing Campaigns Effect (Deck)](https://docs.google.com/presentation/d/1Vj725LiKhox9qPMxqEbH2si37WWsjLwPTKOYyXbZ8_U/edit?usp=sharing)
 - Hypothesis Testing
 
 ## SQL
