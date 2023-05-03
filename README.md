@@ -5,6 +5,10 @@
 - Manipulation
 - Descriptive Statistics
 - Exploratory Data Analysis
+- Correlation
+- Regression
+### Deck : [Measuring Marketing Campaigns Effect]
+- Hypothesis Testing
 ## SQL
 - Data Cleaning
 - JOIN
