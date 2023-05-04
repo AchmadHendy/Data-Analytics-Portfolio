@@ -19,7 +19,7 @@ Hello! I am Achmad Hendy and this is my showcase of all my works on Data Analyti
 ### 2. [E-Commerce Traffic Source (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:d7ad8958f753472b8aabfac400f79e51)
 - JOIN
 ### 3. [Stack Overflow Posts Cohort 2020-2021 (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:36f0945e485e47f987cd1c767e535cdd)
-- Cohort
+- Cohort with SQL
 
 ## C. Python
 ### 1. [COVID-19 in Indonesia 2021-2022 (Code)](https://github.com/AchmadHendy/COVID-19-Indonesia-2021-2022/blob/main/indonesia-covid-data-analysis-2021-2022.ipynb)
