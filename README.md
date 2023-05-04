@@ -36,7 +36,7 @@
 ### Tableau 
 ### 1. [Indonesia COVID-19 Data per 28 June 2022](https://public.tableau.com/views/IndonesiaCOVIDData28062022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ### 2. [E-Commerce Transaction Dashboard](https://public.tableau.com/views/E-CommerceTransactionDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
+### 3. [Pakistan E-Commerce Summary Dashboard](https://public.tableau.com/views/PakistanE-CommerceSummaryDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Project Based Analytics
-Pakistan E-Commerce
+### [Pakistan E-Commerce (Deck)](https://drive.google.com/file/d/1vOuphJizw0YYVGuEa98PPVN2wq-IDIxr/view?usp=share_link)
