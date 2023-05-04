@@ -1,4 +1,5 @@
-# Achmad Hendy Data Analytics Portfolio
+# Data Analytics Portfolio
+Hello! I am Achmad Hendy and this is my showcase of all my works on Data Analytics. Please don't hesitate to give any feedback. Thank you!
 ## Spreadsheet/Excel
 ### 1. [Property Listing Business Analysis (Deck)](https://docs.google.com/presentation/d/10-mxIKbm8fGjy-XmphRgE72RLDK7-SY3TsE45C6_vxs/edit?usp=sharing)
 - Data Cleaning
