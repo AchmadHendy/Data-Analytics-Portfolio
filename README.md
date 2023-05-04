@@ -30,16 +30,9 @@
 ### 2. Investment Company Business Analysis & Client Segmentation [(Deck)](https://docs.google.com/presentation/d/1D7aapFvg6Grw-heTb4BLUpKcQFlzvm-Ot15cm-J0Qd0/edit?usp=sharing) & [(Code)](https://colab.research.google.com/drive/1CWvFqlfz_8xCCeDIwNyQGxg5wRu9YCYg?usp=sharing)
 - Cluster Analysis
 
-## Dataviz using Tableau
-- Connect and combine/ join datasets
-- Data formatting
-- Visualization
-- Calculated field
-- Interactive Dashboard
+## Data Visualization (Looker & Tableau)
 ### Example:
-Order Performance Dashboard in Brazil Region
-Order Performance Dashboard in Brazil Region v2
-Netflix Movies and TV Series Overview Dashboard
+
 
 ## Project Based Analytics
-Bakery Performance Analysis
+Pakistan E-Commerce
