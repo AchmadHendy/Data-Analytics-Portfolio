@@ -31,8 +31,10 @@
 - Cluster Analysis
 
 ## Data Visualization Tools
-### 1. [E-Commerce Transaction Dashboard (Looker)](https://lookerstudio.google.com/reporting/8009d65d-c733-48e0-a3f4-618d905f1ebe)
-### 2. [Indonesia COVID-19 Data per 28 June 2022 (Tableau)](https://public.tableau.com/views/IndonesiaCOVIDData28062022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Looker
+### 1. [E-Commerce Transaction Dashboard](https://lookerstudio.google.com/reporting/8009d65d-c733-48e0-a3f4-618d905f1ebe)
+### Tableau 
+### 1. [Indonesia COVID-19 Data per 28 June 2022 (Tableau)](https://public.tableau.com/views/IndonesiaCOVIDData28062022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Project Based Analytics
 Pakistan E-Commerce
