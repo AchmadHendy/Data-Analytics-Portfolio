@@ -17,6 +17,7 @@ Hello! I am Achmad Hendy and this is my showcase of all my works on Data Analyti
 - CTE (Common Table Expressions)
 - Window Functions
 ### 2. [E-Commerce Traffic Source (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:d7ad8958f753472b8aabfac400f79e51)
+- Aggregate Function
 - JOIN
 ### 3. [Stack Overflow Posts Cohort 2020-2021 (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:36f0945e485e47f987cd1c767e535cdd)
 - Cohort with SQL
