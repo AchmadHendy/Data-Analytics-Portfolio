@@ -19,7 +19,7 @@ Hello! I am Achmad Hendy and this is my showcase of all my works on Data Analyti
 ### 2. [E-Commerce Traffic Source (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:d7ad8958f753472b8aabfac400f79e51)
 - Aggregate Function
 - JOIN
-### 3. [User Purchase Retention Cohort (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:631bd54dc189466e94a7cc1496d258d5)
+### 3. [User Retention by Purchase Cohort (Queries)](https://console.cloud.google.com/bigquery?sq=112288188025:631bd54dc189466e94a7cc1496d258d5)
 - Cohort with SQL
 
 ## C. Python
