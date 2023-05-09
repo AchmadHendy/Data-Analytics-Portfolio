@@ -1,14 +1,14 @@
 # Data Analytics Portfolio
 Hello! I am Achmad Hendy and this is my showcase of all my works on Data Analytics. I hope you enjoy and please don't hesitate to give any feedback. Thank you!
 ## A. Spreadsheet/Excel
-### 1. [Property Listing Business Analysis (Deck)](https://docs.google.com/presentation/d/10-mxIKbm8fGjy-XmphRgE72RLDK7-SY3TsE45C6_vxs/edit?usp=sharing)
+### 1. [Property Listing Business Analysis (Deck)](https://drive.google.com/file/d/1pRPxVjFgkDZHGi5ONqNeoQAhPMoLk0Yf/view?usp=sharing)
 - Data Cleaning
 - Manipulation
 - Descriptive Statistics
 - Exploratory Data Analysis
 - Correlation
 - Regression
-### 2. [Comparing Marketing Campaigns Effect (Deck)](https://docs.google.com/presentation/d/1Vj725LiKhox9qPMxqEbH2si37WWsjLwPTKOYyXbZ8_U/edit?usp=sharing)
+### 2. [Comparing Marketing Campaigns Effect (Deck)](https://drive.google.com/file/d/1Mr96H_9N2e9q2lqqZaOLIJF6B2KAFsmz/view?usp=sharing)
 - Hypothesis Testing
 
 ## B. SQL
@@ -29,7 +29,7 @@ Hello! I am Achmad Hendy and this is my showcase of all my works on Data Analyti
 - Exploratory Data Analysis
 - Data Visualization
 
-### 2. Investment Company Business Analysis & Client Segmentation [(Deck)](https://docs.google.com/presentation/d/1D7aapFvg6Grw-heTb4BLUpKcQFlzvm-Ot15cm-J0Qd0/edit?usp=sharing) & [(Code)](https://colab.research.google.com/drive/1CWvFqlfz_8xCCeDIwNyQGxg5wRu9YCYg?usp=sharing)
+### 2. Investment Company Business Analysis & Client Segmentation [(Deck)](https://drive.google.com/file/d/1ARBnxy0BrBcEtAjBnJ5TsB9qXxAqReWc/view?usp=sharing) & [(Code)](https://colab.research.google.com/drive/1CWvFqlfz_8xCCeDIwNyQGxg5wRu9YCYg?usp=sharing)
 - Cluster Analysis
 
 ## D. Data Visualization Tools
